@@ -1,4 +1,6 @@
 # 📊 E-commerce Business Intelligence Dashboard
+<img width="1438" height="742" alt="Screenshot 2026-07-14 005335" src="https://github.com/user-attachments/assets/6dbd2526-edce-47fe-961a-c840c5609362" />
+
 
 Welcome to the Looker E-Commerce Analytics Dashboard. This project demonstrates the end-to-end process of transforming raw e-commerce data into strategic business insights to drive revenue growth and improve customer experience.
 
@@ -38,6 +40,3 @@ The dashboard was developed using a custom design inspired by Figma, ensuring a 
 
 Access the full Excel dataset & analysis:[https://docs.google.com/spreadsheets/d/1DIJmuNLxTj0BauWDWgEs8FlMDO6YbK89/edit?usp=drive_link&ouid=102502154666626642267&rtpof=true&sd=true]
 
-2. **التفاصيل اللوجستية:** ربطتُ الآن مشكلة الـ Return Rate مباشرة بـ "Shipping Delays" و "Damages in Transit"، وهذا يظهر للمديرين أو أصحاب العمل أنكِ تفكرين كـ Data Analyst حقيقي يبحث عن "السبب الجذري" (Root Cause) وليس فقط الأرقام.
-
-هل تحبين إضافة أي تفاصيل أخرى بخصوص أدوات معينة استخدمتيها (مثل استخدام Pivot Tables أو Power Query في إكسيل)؟
