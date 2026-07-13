@@ -24,6 +24,7 @@ The analysis of our business data revealed the following:
 * **Marketing Conversion Rate**: 14.67%
 * **Item Return Rate**: 10.03%
 
+<img width="1348" height="647" alt="image" src="https://github.com/user-attachments/assets/7d12de8b-f41f-468f-a295-60414379504c" />
 
 
 ## 💡 Strategic Recommendations
@@ -31,10 +32,13 @@ The analysis of our business data revealed the following:
  **Logistics & Returns Optimization**: An **Item Return Rate of 10.03%** is a critical area for improvement. I recommend conducting a deep dive into shipping data to identify if returns are linked to **shipping delays, damages in transit, or delivery issues**. Improving fulfillment reliability will significantly reduce return costs.
  **Conversion Funnel Strategy**: With a **14.67% Marketing Conversion Rate**, there is significant potential to optimize top-of-funnel acquisition channels. A/B testing landing pages and refining ad targeting could further improve the Purchase Conversion Rate.
  **AOS (Average Order Size) Focus**: Given the **AOS of 1.45**, implementing "Frequently Bought Together" recommendations or volume-based discounts could increase the items per order, directly boosting Net Revenue.
+ <img width="1380" height="737" alt="image" src="https://github.com/user-attachments/assets/f476b8b8-f0fd-4e1a-9d81-d031f5bf850e" />
 
 🖥️ Interactive Dashboard
 
 The dashboard was developed using a custom design inspired by Figma, ensuring a modern, user-friendly interface. It features interactive slicers that allow users to drill down by **Order Status** and **Time Periods**, facilitating data-driven decision-making.
+<img width="1372" height="726" alt="image" src="https://github.com/user-attachments/assets/8d46467b-35de-4799-bfba-8aec33b8ca5a" />
+<img width="1542" height="715" alt="image" src="https://github.com/user-attachments/assets/c3ec625e-2d08-43cb-9f20-97afaefb7624" />
 
 🔗 Project Resources
 
