@@ -40,7 +40,7 @@ The analysis of our business data revealed the following:
 The dashboard was developed using a custom design inspired by Figma, ensuring a modern, user-friendly interface. It features interactive slicers that allow users to drill down by **Order Status** and **Time Periods**, facilitating data-driven decision-making.
 
 <img width="1372" height="726" alt="image" src="https://github.com/user-attachments/assets/8d46467b-35de-4799-bfba-8aec33b8ca5a" />
-<img width="1542" height="715" alt="image" src="https://github.com/user-attachments/assets/c3ec625e-2d08-43cb-9f20-97afaefb7624" />
+<img width="1555" height="717" alt="Screenshot 2026-07-14 005457" src="https://github.com/user-attachments/assets/6b6df914-0b82-44dc-b671-8e8c8e359ad5" />
 
 🔗 Project Resources
 
